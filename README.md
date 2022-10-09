@@ -25,7 +25,6 @@ Insert the following code in the `head` section of your pages:
 *Optional* - Check your favicon with the [favicon checker](https://realfavicongenerator.net/favicon_checker)
 
 -------
-Insert the following code in the `head` section of your pages:
 
     <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
